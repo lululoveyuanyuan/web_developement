@@ -1,2 +1,2 @@
-# web_developement project
+# tasks for web_developement project
 
